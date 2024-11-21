@@ -7,11 +7,11 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>TESTING Next.js Starter!</title>
-        <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💋</text></svg>">
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="WE'RE STILL BACK TESTING Welcome to my app!" />
+        <Header title="WE'RE STILLLLL BACK TESTING Welcome to my app!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
